@@ -7,5 +7,6 @@ body { padding: 0; margin: 0; }
 
 .container { text-align: center; padding: 50px 20px; }
 .input-row:not(:last-child) { margin-bottom: 20px; }
+.error { color: red; margin-bottom: 20px; }
 
 .footer { background: dodgerblue; padding: 20px 0; text-align: center; }

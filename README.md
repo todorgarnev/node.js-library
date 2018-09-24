@@ -1,2 +1,2 @@
 # Library project
-A selft training project using node.js, express, mongoose.
+A self training project using node.js, express, mongoose.
